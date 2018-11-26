@@ -1,3 +1,4 @@
+package chapter1;
 import java.util.Arrays;
 
 /*
@@ -34,7 +35,6 @@ public class CheckPermutation {
             count[c - 'a']--;
             if (count[c - 'a'] < 0) {
                 return false;
-
             }
         }
         return true;

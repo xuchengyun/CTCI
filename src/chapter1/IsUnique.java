@@ -1,3 +1,4 @@
+package chapter1;
 class IsUnique {
     // only check for 26 lower case character
     public static boolean isUnique(String s) {
