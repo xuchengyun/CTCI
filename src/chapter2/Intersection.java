@@ -17,14 +17,13 @@ public class Intersection {
     class Result {
         Node tail;
         int size;
-
     }
-    public Node findintersection(Node node1, Node node2) {
-        int len1 = getLen(node1);
-        int len2 = genLen(node2);
-    }
+//    public Node findintersection(Node node1, Node node2) {
+//        int len1 = getLen(node1);
+//        int len2 = genLen(node2);
+//    }
 
-    int genLenAndTail(Node node) {
-
-    }
+//    int genLenAndTail(Node node) {
+//
+//    }
 }
