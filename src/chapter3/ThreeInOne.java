@@ -35,7 +35,7 @@ public class ThreeInOne {
         }
 
         public boolean isFull(int stackNum) {
-            return sizes[stackNum] == stackCapacity)
+            return sizes[stackNum] == stackCapacity;
         }
 
         public int indexTop(int stackNum) {
