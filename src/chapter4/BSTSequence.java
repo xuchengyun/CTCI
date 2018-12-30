@@ -14,6 +14,7 @@ public class BSTSequence {
             this.val = val;
         }
     }
+
     ArrayList<LinkedList<Integer>> allSequences(TreeNode node) {
         ArrayList<LinkedList<Integer>> result = new ArrayList<LinkedList<Integer>>();
         if (node == null) {
